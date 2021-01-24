@@ -26,7 +26,7 @@ Currently this tool checks the following:
 # Installation
 
 ```bash
-composer require daveearley/daves-email-validation-tool
+composer require emailverifier/emailchecker
 ```
 
 # Usage

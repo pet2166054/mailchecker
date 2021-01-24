@@ -44,5 +44,5 @@ $writeToFile = file_put_contents('../src/data/email-providers.php', $phpFileTemp
 
 if (!$writeToFile) { die('Failed to write to file'); }
 
-echo "Successfully Fetched Top Level Domains";
+echo "Successfully Fetched Email Providers";
 exit();

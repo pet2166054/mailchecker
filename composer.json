@@ -1,5 +1,5 @@
 {
-  "name": "email/verifier",
+  "name": "emailverifier/emailchecker",
   "description": "An easy to use, accurate-ish & extensible email validation library for PHP 7+",
   "type": "library",
   "keywords": [

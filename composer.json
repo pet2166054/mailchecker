@@ -10,9 +10,13 @@
     "disposable email check"
   ],
   "require": {
-    "php": "^7.0",
+    "php": ">=7.1",
     "ext-json": "*"
   },
+  
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  
   "require-dev": {
     "mockery/mockery": "dev-master",
     "phpunit/phpunit": "^9.0"
